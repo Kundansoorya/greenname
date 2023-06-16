@@ -1,0 +1,38 @@
+*{
+      @font-face{
+            font-family:kundansoorya;
+        src:url('UrbanJungleDEMO.otf');
+                  }
+      
+}
+canvas {
+  border: 1px solid black;
+  
+  
+  
+}
+body {
+height: 100vh;
+width: 100%;
+text-align: center;
+
+}
+
+#center{
+      text-align: center;
+}
+button{
+      background-color: green;
+      border: none;
+      margin: 20px;
+      padding: 10px;
+      color: white;
+      border-radius: 10px;
+}
+#textInput{
+border: none;
+      border-bottom: 2px dashed green;
+      text-align: center;
+      color: green;
+      outline: none;
+}
